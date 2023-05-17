@@ -3,6 +3,8 @@
 
 ![image](https://github.com/Monish-T/Capstone-Project-3-Classification---Company-Bankruptcy-Prediction/assets/131141881/f1a57c4f-48a0-43dc-830a-5370f9ae6e5a)
 
+Bankruptcy can have several negative consequences for the business owners, employees, customers, and suppliers.
+
 Given the dataset of financial information of companies, by Taiwan Economic Journal, operating in Taiwan between 1999 and 2009, the goal of this project is to build a binary classification model that predicts whether a company will go bankrupt or not based on their financial information. The project aims to help, make better decisions towards short positions for investors, Banks for there Loans by providing early and accurate signs of bankruptcy, which can help businesses take necessary actions to solve financial distress.
 
 The goal of this project is to develop a machine learning model that can predict the Bankruptcy of companies, using Financial data and other relevant features.
