@@ -29,14 +29,16 @@ To create and select the most relevant and informative features for the model.
 
   also have used methods such as correlation analysis variance threshold, etc. to select the best Numerical features for the model. For Categorical variable the result of Hypothesis testing is used.
 
-  also have also performed data cleaning, Scaling and transformation to prepare the data for modeling.
+  also have also performed data cleaning, Scaling and transformation and Balancing data to prepare the data for modeling.
 
-4. ML Model Development and Evaluation : In this project Have developed and evaluated different machine learning Models. Have used both Distance based algorithm Linear and Polynomial Regression. Also have used Tree Based Algorithm. 
+# 4. ML Model Development and Evaluation : 
+In this project Have developed and evaluated different machine learning Models. Have used both Distance based algorithm Linear and Polynomial Regression. Also have used Tree Based Algorithm. 
 
   Used Different techniques such as cross-validation, grid search, regularization, etc. to optimize the model parameters and performance.
 
   evaluated the model performance using metrics such as Precision,Recall,f1 score and ROC-AUC score and curve.
 
-5. Model Interpretation and Explanation : explained the model predictions using methods such as SHAP values.
+# 5. Model Interpretation and Explanation : 
+Explained the model predictions using methods such as SHAP values.
 
   It helped to analyzes the effect of different factors on the Bankruptcy and identifies the key drivers and patterns.
