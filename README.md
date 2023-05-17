@@ -11,18 +11,21 @@ The goal of this project is to develop a machine learning model that can predict
 
 The main steps of the project are:
 
-1. Basic EDA (Exploratory Data Analysis).: I have performed basic EDA to understand the data and its characteristics.
+# 1. Basic EDA (Exploratory Data Analysis).: 
+Have performed basic EDA to understand the data and its characteristics.
 
  also, have used Univariate - BI variate - and Multivarite analysis to Understanding the correlation between variables and to explore distribution and intercation of variables.
 
  also have also used visualization techniques such as histograms, boxplots, scatterplots, heatmaps, etc. to display the results of EDA.
 
-2. Hypothesis testing. I have performed hypothesis testing to test the relationship between the variables. 
+# 2. Hypothesis testing. 
+Have performed hypothesis testing to test the relationship between the variables. 
 
   also have used statistical tests such as t-test, f-test. to compare the means or proportions of different groups or categories.
 
 
-3. Feature Engineering and Data Preprocessing. : to create and select the most relevant and informative features for the model. 
+# 3. Feature Engineering and Data Preprocessing. : 
+To create and select the most relevant and informative features for the model. 
 
   also have used methods such as correlation analysis variance threshold, etc. to select the best Numerical features for the model. For Categorical variable the result of Hypothesis testing is used.
 
